@@ -1,0 +1,13 @@
+.title{
+    margin-right: 10px;
+}
+
+.delete{
+    height: 30px;
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
